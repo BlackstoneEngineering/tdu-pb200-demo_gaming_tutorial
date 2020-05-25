@@ -5,9 +5,9 @@
 		"do_not_contact_emails":"do_not_contact_emails.csv",
 		"email_clicks":"email_clicks.csv",
 		"email_opens":"email_opens.csv",
-		"pageviews":"pageviews.csv",
 		"pageviews_small":"pageviews_small.csv",
 		"url_lookup":"url_lookup.csv",
-		"user_master":"user_master.csv"
+		"user_master":"user_master.csv",
+		"pageviews":"pageviews.csv"
 	}
 }

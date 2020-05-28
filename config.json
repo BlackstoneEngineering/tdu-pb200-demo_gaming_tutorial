@@ -7,7 +7,6 @@
 		"email_opens":"email_opens.csv",
 		"pageviews_small":"pageviews_small.csv",
 		"url_lookup":"url_lookup.csv",
-		"user_master":"user_master.csv",
-		"pageviews":"pageviews.csv"
+		"user_master":"user_master.csv"
 	}
 }
